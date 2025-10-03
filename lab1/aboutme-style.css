@@ -1,0 +1,18 @@
+body{
+	background: rgb(224, 191, 221);
+	font-family: "Trebuchet MS", "Verdana", sans-serif;
+	width: 300pt
+}
+h1, h2 {
+		color: rgb(191, 34, 176);
+		}
+h1 {
+	font-size: 40pt;
+	}
+strong {color: rgb(235, 61, 73); font-size: 20pt;}
+a {color: rgb(0, 0, 0);}
+a, a:visited {text-decoration: none;
+			} 
+a:hover {text-decoration: underline;}
+
+p:first-letter {font-weight: bold; font-size: 150%;}
